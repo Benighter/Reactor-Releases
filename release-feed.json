@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "android": {
+    "version": "1.2.1",
+    "notes": "Friends, earned achievements and playable invitations; online and searching players; fair bounded ranked matching; unfocused PC queues fixed; username changes, password confirmation/show-hide and delivered password recovery. Offline saves, seven ranks, rank protection and CC0 sounds retained. Seasons coming soon.",
+    "url": "https://benighters-personal-projects.vercel.app/releases/reactor/1.2.1/Reactor-1.2.1.apk",
+    "sha256": "85dff45c6ddd135a338b2a9cd4efac0ac2ec8101e453cb99ee80d988ac6d694b",
+    "bytes": 23115332
+  }
+}
