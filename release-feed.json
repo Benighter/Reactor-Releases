@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "android": {
-    "version": "1.3.1",
-    "notes": "New Spark players can choose three clearly labelled rated bot introductions per format, or skip to real rivals. Wins and losses affect rank with normal protection. Bots never occupy leaderboard places. Learn by playing with ten skippable lessons. Online 1v1, 2v2 teams, three-player and four-player arenas, each with its own ranks and top 100. Ready-gated username invitations. Spark 1+1, Surge 3+0/3+1, Orbit 10+0/10+1; all increments are one second. Offline Solo clocks save and pause. Existing saves, duel progress and CC0 sounds retained. Seasons coming soon.",
-    "url": "https://benighters-personal-projects.vercel.app/releases/reactor/1.3.1/Reactor-1.3.1.apk",
-    "sha256": "d8ad88d8608f58ea7137517183b4d229621aacfce49f09c332e652d67e0b8405",
-    "bytes": 23146324
+    "version": "1.3.2",
+    "notes": "Rematches with unanimous acceptance, same format and clock, or Find New Rivals after a decline. Animated rank progress and cinematic badge promotions show the saved points. Clean online text, immediate placement feedback and faster synchronization. Four formats, rated bot introductions, clocks, tutorial, CC0 sounds and saves retained.",
+    "url": "https://benighters-personal-projects.vercel.app/releases/reactor/1.3.2/Reactor-1.3.2.apk",
+    "sha256": "43511b7837cf4ce99098aa6cef6868851a708ab81e645e13c0a6da12c58b52e9",
+    "bytes": 23160140
   }
 }

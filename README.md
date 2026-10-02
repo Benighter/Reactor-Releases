@@ -6,7 +6,7 @@ Learn by playing. Challenge Reactor AI. Invite friends into 1v1, 2v2 teams, thre
 
 ## Download
 
-- [Android 1.3.1 APK](https://github.com/Benighter/Reactor-Releases/releases/download/v1.3.1/Reactor-1.3.1.apk)
+- [Android 1.3.2 APK](https://github.com/Benighter/Reactor-Releases/releases/download/v1.3.2/Reactor-1.3.2.apk)
 - [Latest release and notes](https://github.com/Benighter/Reactor-Releases/releases/latest)
 - [Benighter Personal Projects](https://benighters-personal-projects.vercel.app/releases/reactor/)
 
@@ -14,7 +14,12 @@ Android 8.0 or newer and an ARM64 device are required. This direct beta is distr
 
 The classic Windows build is updated locally and backed up privately. Public Windows distribution continues through the separate Microsoft Store process. Google Play publication has been resumed by the owner after this direct bot update. A separate paid, ad-free Play edition is being prepared.
 
-## Version 1.3.1 — A spark to start with
+## Version 1.3.2 — One more ripple
+
+- Rematches after every original player accepts; same players, teams, format and clock. Declined offers keep your choices for new rivals.
+- Animated saved ranked points and cinematic GPT rank badge promotions, with accurate losses, deranking and protection.
+- Fixed damaged online punctuation. Placements animate immediately and reconcile with the server; rejected moves recover safely.
+- Faster active-match checks, adaptive opponent polling and shorter bot thinking time.
 
 - Three clearly disclosed rated bot introductions per format for new Spark players. Wins and losses affect rank, with normal protection. Skip to real players at any time before starting. Starts are capped permanently on the server; bots never occupy leaderboard places.
 - Ten skippable hands-on lessons, replayable from How to Play.
@@ -29,7 +34,7 @@ The classic Windows build is updated locally and backed up privately. Public Win
 
 Email confirmation is off for the beta. Passwords require ten characters. Seasons are inactive: **Seasons coming soon**. Friendly rooms do not change ranked points.
 
-[Full release notes](RELEASE-NOTES-1.3.1.md). [APK checksum](SHA256SUMS.txt). [Account help and privacy](https://benighters-personal-projects.vercel.app/reactor-account.html).
+[Full release notes](RELEASE-NOTES-1.3.2.md). [APK checksum](SHA256SUMS.txt). [Account help and privacy](https://benighters-personal-projects.vercel.app/reactor-account.html).
 
 ## Source and credits
 
