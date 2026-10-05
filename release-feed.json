@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "android": {
-    "version": "1.3.2",
-    "notes": "Rematches with unanimous acceptance, same format and clock, or Find New Rivals after a decline. Animated rank progress and cinematic badge promotions show the saved points. Clean online text, immediate placement feedback and faster synchronization. Four formats, rated bot introductions, clocks, tutorial, CC0 sounds and saves retained.",
-    "url": "https://benighters-personal-projects.vercel.app/releases/reactor/1.3.2/Reactor-1.3.2.apk",
-    "sha256": "43511b7837cf4ce99098aa6cef6868851a708ab81e645e13c0a6da12c58b52e9",
-    "bytes": 23160140
+    "version": "1.3.3",
+    "notes": "Four clear mode cards with a play button that follows your choice. Touch-reactive glowing atoms, animated selection and keyboard feedback. Cleaner match recaps, ranked progress and rematch readiness. Reduced motion, sounds, accounts, clocks and saved games retained. Free direct beta; no ads, payment or trial timer.",
+    "url": "https://benighters-personal-projects.vercel.app/releases/reactor/1.3.3/Reactor-1.3.3.apk",
+    "sha256": "4ac9cc4637e8f06bfe3e30a103e33f48cd887fa52097f91ebe01478e3034ce5d",
+    "bytes": 23614840
   }
 }
