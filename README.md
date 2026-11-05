@@ -1,20 +1,21 @@
-# Reactor
+# Reactor: The Ripple Effect
 
-**Small moves. Explosive chains.** A chain-reaction strategy game made by Bennet.
+**Small moves. Explosive chains.** Place one atom, set off a chain and turn neighbouring cells into your territory.
 
-Learn by playing. Challenge Reactor AI. Invite friends into 1v1, 2v2 teams, three-player or four-player arenas, or find suitably ranked opponents online.
+Learn in ten playable lessons, play solo against Reactor AI or share one phone for a local match. Online play includes private rooms and ranked duels, teams and free-for-all matches.
 
-## Download
+## Get Reactor for Android
 
-**Free direct Android beta. Zero ads.** There is no trial timer or checkout. A future update will offer a seven-day trial and optional one-time R10 permanent unlock after payments are ready; there is no automatic charge.
+- [Get it on Google Play](https://play.google.com/store/apps/details?id=com.benighter.reactor) for the ad-free Play edition.
+- [Watch real gameplay](https://benighters-personal-projects.vercel.app/releases/reactor/) on the official game page.
 
-- [Android 1.3.3 APK](https://github.com/Benighter/Reactor-Releases/releases/download/v1.3.3/Reactor-1.3.3.apk)
-- [Latest release and notes](https://github.com/Benighter/Reactor-Releases/releases/latest)
-- [Benighter Personal Projects](https://benighters-personal-projects.vercel.app/releases/reactor/)
+## Free direct Android beta
 
-Android 8.0 or newer and an ARM64 device are required. This direct beta is distributed outside Google Play. Future updates appear in **Settings → More → Updates**; Android approval is required to install them.
+[Download the Android 1.3.3 APK](https://github.com/Benighter/Reactor-Releases/releases/download/v1.3.3/Reactor-1.3.3.apk) or [read the beta release notes](https://github.com/Benighter/Reactor-Releases/releases/latest).
 
-The classic Windows build is updated locally and backed up privately. Public Windows distribution continues through the separate Microsoft Store process. The separate paid, ad-free Google Play edition is in closed testing. This release changes neither Store submissions nor pricing.
+The direct beta is free today and supports Android 8.0 or newer on ARM64 devices. Check **Settings → More → Updates** in the direct beta. Android asks for your approval before it installs an update. A seven-day trial and optional one-time R10 unlock are planned for a future direct-beta update once payments are ready.
+
+The Windows edition is a private beta. Public distribution is going through the Microsoft Store process.
 
 ## Version 1.3.3 — A new first impression
 
